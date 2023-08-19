@@ -1,0 +1,15 @@
+modLoader = "javafml"
+loaderVersion = "*"
+license = "LGPLv3"
+issueTrackerURL = "https://github.com/dimadencep/jlmi/issues"
+
+[[mods]]
+modId = "jlmi"
+version = "${version}"
+displayName = "Just Let Me In"
+credits = "NE4T0, v972"
+logoFile= "icon.png"
+updateJSONURL = "https://api.modrinth.com/updates/jlmi/forge_updates.json"
+authors = "dima_dencep"
+displayURL = "https://curseforge.com/minecraft/mc-mods/jlmi"
+description = "Forge no longer synchronizes registries!"
